@@ -1,0 +1,9 @@
+<keymap version="1" name="Greg" parent="Mac OS X 10.5+">
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+</keymap>

@@ -1,0 +1,4 @@
+/**
+ * Trait ${NAME}
+ * @author GK
+ */
